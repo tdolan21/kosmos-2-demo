@@ -2,7 +2,7 @@
 
 This repo is a simple object detection testing platform using Kosmos-2 from Microsoft
 
-[kosmos](assets/'thumbnail.png)
+[kosmos](assets/thumbnail.png)
 
 ## Install
 
