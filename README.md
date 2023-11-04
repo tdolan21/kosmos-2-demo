@@ -1,6 +1,9 @@
 # Kosmos-2-Patch14-224 Interface
 
 This repo is a simple object detection testing platform using Kosmos-2 from Microsoft
+
+![kosmos]('assets/'thumbnail.png')
+
 ## Install
 
 ```bash
