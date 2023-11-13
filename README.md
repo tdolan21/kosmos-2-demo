@@ -2,7 +2,11 @@
 
 This repo is a simple object detection testing platform using Kosmos-2 from Microsoft
 
-![kosmos]('assets/thumbnail.png')
+[kosmos](assets/thumbnail.png)
+
+Full guide available [here](https://tims-tutorials.vercel.app/blog/kosmos-2-patch14-224)
+Live demo available on Hugginface [Spaces](https://huggingface.co/spaces/macadeliccc/kosmos-2-demo)
+
 
 ## Install
 
